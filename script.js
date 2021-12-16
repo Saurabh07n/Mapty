@@ -1,4 +1,4 @@
-'use strict';  // issue-1 branch git testing
+'use strict';
 
 let map, mapEvent;
 
